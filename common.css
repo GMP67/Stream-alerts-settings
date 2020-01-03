@@ -44,7 +44,7 @@ body {
 text-align: center;
 }
 .alert [class*="fa-"] {
-  font-size: 8em;
+  font-size: 7em;
   margin: 8px;
   color: #f9f9f9;
   display: inline-block;
