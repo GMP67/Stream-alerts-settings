@@ -23,7 +23,6 @@ body {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 .box h2 {
-
   font-size: 2em;
 }
 .box p {
@@ -37,19 +36,19 @@ body {
 
 .alert {
   position: relative;
-  height: 10em;
+  height: 9em;
 }
 .alert .icon {
   border-radius: 5px;
   position: absolute;
   top: 0px;
   left: 0px;
-  width: 10em;
-  height: 10em;
+  width: 9em;
+  height: 9em;
 text-align: center;
 }
 .alert [class*="fas fa-"] {
-  font-size: 9em;
+  font-size: 8em;
   margin: 8px;
   color: #f9f9f9;
   display: inline-block;
