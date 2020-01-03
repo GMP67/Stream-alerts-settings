@@ -47,7 +47,7 @@ body {
   height: 9em;
 text-align: center;
 }
-.alert [class*="fas fa-"] {
+.alert [class*="fa-"] {
   font-size: 8em;
   margin: 8px;
   color: #f9f9f9;
@@ -56,7 +56,7 @@ text-align: center;
 .alert .details {
   padding: 5px 0;
   margin-left: 11em;
-}
+}common.css
 .find {
   padding: 10px;
 }
