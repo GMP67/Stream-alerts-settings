@@ -30,10 +30,6 @@ body {
   color: #7d7d7d;
 }
 
-.container {
-
-}
-
 .alert {
   position: relative;
   height: 9em;
@@ -54,9 +50,6 @@ text-align: center;
   display: inline-block;
 }
 .alert .details {
-  padding: 5px 0;
+  padding: 1px 0;
   margin-left: 11em;
-}common.css
-.find {
-  padding: 10px;
 }
